@@ -8,22 +8,6 @@
 [![JellyToggleButton](https://github.com/Nightonke/JellyToggleButton/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true)](https://github.com/Nightonke/JellyToggleButton)
 [![FaceOffToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true)](https://github.com/Nightonke/FaceOffToggleButton)
 
-![CoCoin](https://github.com/Nightonke/CoCoin/blob/master/PNG/CoCoin_White_Bg.png)  
-CoCoin, Multi-view Accounting Application
-
-#中文文档
-[README-ZH.md](https://github.com/Nightonke/CoCoin/blob/master/README-ZH.md)
-
-#Download
-[APK from Github](https://github.com/Nightonke/CoCoin/blob/master/APK/CoCoin%20V1.2.0.apk)  
-QR code:  
-![CoCoin](https://github.com/Nightonke/CoCoin/blob/master/APK/CoCoin%20V1.2.0.png)
-
-#Note
-1. There are some old gifs in the GIF directory.  
-2. If you have install V1.1.0, maybe you should uninstall it first and then install the V1.2.0. For V1.1.0 is not beta version.  
-3. [Why there isn't CoCoin.java in Model package?](https://github.com/Nightonke/CoCoin/issues/7)  
-
 #Intro
 ###Basic
 ![Basic](https://github.com/Nightonke/CoCoin/blob/master/PNG/CoCoin_Basic.png)
